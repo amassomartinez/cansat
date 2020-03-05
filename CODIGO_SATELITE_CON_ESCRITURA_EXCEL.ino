@@ -65,7 +65,7 @@ void loop() { // run over and over
     Serial.println(A0Mq);
     delay (1000);
     
-    /****** Fin de transimisón por radio ******/
+    /****** Fin de transmisión por radio ******/
 }
 
 
